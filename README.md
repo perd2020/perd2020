@@ -1,8 +1,15 @@
 #
 ![fantasy-2049567_1280](https://github.com/perd2020/perd2020/assets/91780371/5814ba69-2494-45cd-8327-978d65e7511c)
  💫 About Me:
-🔭 <br><br> Desarrollador web con una sólida formación en tecnologías de JavaScript, como Node.js, React, y frameworks como Vue.js, Bootstrap y Tailwind. Actualmente, estoy cursando la carrera de Gestión de las Tecnologías de la Información en la Universidad de José C. Paz, lo que me ha permitido adquirir conocimientos sólidos en el campo de la tecnología y la informática.<br>👯
-<br><br>⚡ En cuanto a las bases de datos, tengo experiencia trabajando con MySQL, lo que me ha permitido desarrollar aplicaciones web robustas y eficientes. También estoy familiarizado con otras tecnologías y herramientas de desarrollo web, como Git y GitHub, lo que me permite trabajar de manera eficiente y colaborativa en proyectos de desarrollo web.<br><br>🤝
+🔭 <br><br> Desarrollador web con una sólida formación en tecnologías de JavaScript, como Node.js (módulos como Express, mongoose, mysql2, etc.), React, y frameworks como Vue.js, Bootstrap y Tailwind. 
+
+<br><br>⚡ En cuanto a las bases de datos, tengo experiencia trabajando con bases relacionales (SQL) como MySQL, y NoSQL (no relacionales) como MongoDB. <br>
+Lo que me ha permitido desarrollar aplicaciones web robustas y eficientes fullstack. 
+
+<br>También estoy familiarizado con otras tecnologías y herramientas de desarrollo web, como Git y GitHub, de diseño como CoreDraw, Figma, Canvas lo que me permite trabajar de manera eficiente y colaborativa en proyectos de desarrollo web.<br><br>🤝
+
+🔭 <br><br>Actualmente, estoy cursando la carrera de Gestión de las Tecnologías de la Información en la Universidad de José C. Paz, lo que me ha permitido adquirir conocimientos sólidos en el campo de la tecnología y la informática.<br>
+👯 <br><br> En mis tiempos libres me gusta relajarme haciendo zumba, salgo a correr ,salir con amigas a cenar.
 
 
 ## 🌐 Socials:
