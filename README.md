@@ -9,7 +9,7 @@ Lo que me ha permitido desarrollar aplicaciones web robustas y eficientes fullst
 <br>También estoy familiarizado con otras tecnologías y herramientas de desarrollo web, como Git y GitHub, de diseño como CoreDraw, Figma, Canvas lo que me permite trabajar de manera eficiente y colaborativa en proyectos de desarrollo web.<br><br>🤝
 
 🔭 <br><br>Actualmente, estoy cursando la carrera de Gestión de las Tecnologías de la Información en la Universidad de José C. Paz, lo que me ha permitido adquirir conocimientos sólidos en el campo de la tecnología y la informática.<br>
-👯 <br><br> En mis tiempos libres me gusta relajarme haciendo zumba, salgo a correr ,salir con amigas a cenar.
+
 
 
 ## 🌐 Socials:
